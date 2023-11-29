@@ -33,7 +33,7 @@ public class TestClass {
 	public void test()
 	{
 		System.out.println("new test");
-		org.openqa.selenium.WebElement addr =		driver.findElement(By.tagName("texta"));
+		org.openqa.selenium.WebElement addr =		driver.findElement(By.tagName("textarea"));
 		
 		addr.click();
 		addr.clear();
