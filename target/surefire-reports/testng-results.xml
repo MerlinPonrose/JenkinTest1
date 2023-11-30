@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-30T03:30:50Z" name="Suite" finished-at="2023-11-30T03:30:57Z" duration-ms="6908">
+  <suite started-at="2023-11-30T03:44:56Z" name="Suite" finished-at="2023-11-30T03:45:02Z" duration-ms="6298">
     <groups>
     </groups>
-    <test started-at="2023-11-30T03:30:50Z" name="Test" finished-at="2023-11-30T03:30:57Z" duration-ms="6908">
-      <class name="com.maven.jenkin.TestClass">
-        <test-method is-config="true" signature="precondition1()[pri:0, instance:com.maven.jenkin.TestClass@32910148]" started-at="2023-11-30T03:30:50Z" name="precondition1" finished-at="2023-11-30T03:30:57Z" duration-ms="6037" status="PASS">
+    <test started-at="2023-11-30T03:44:56Z" name="Test" finished-at="2023-11-30T03:45:02Z" duration-ms="6298">
+      <class name="com.maven.jenkin.TestClass2">
+        <test-method is-config="true" signature="precondition1()[pri:0, instance:com.maven.jenkin.TestClass2@32910148]" started-at="2023-11-30T03:44:56Z" name="precondition1" finished-at="2023-11-30T03:45:01Z" duration-ms="5062" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- precondition1 -->
-        <test-method signature="test()[pri:0, instance:com.maven.jenkin.TestClass@32910148]" started-at="2023-11-30T03:30:57Z" name="test" finished-at="2023-11-30T03:30:57Z" duration-ms="563" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.maven.jenkin.TestClass2@32910148]" started-at="2023-11-30T03:45:01Z" name="test" finished-at="2023-11-30T03:45:02Z" duration-ms="905" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.maven.jenkin.TestClass@32910148]" started-at="2023-11-30T03:30:57Z" name="closebrowser" finished-at="2023-11-30T03:30:57Z" duration-ms="269" status="PASS">
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.maven.jenkin.TestClass2@32910148]" started-at="2023-11-30T03:45:02Z" name="closebrowser" finished-at="2023-11-30T03:45:02Z" duration-ms="284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-      </class> <!-- com.maven.jenkin.TestClass -->
+      </class> <!-- com.maven.jenkin.TestClass2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
