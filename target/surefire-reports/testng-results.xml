@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8904" started-at="2023-11-29T16:31:32Z" finished-at="2023-11-29T16:31:41Z">
+  <suite name="Suite" duration-ms="5960" started-at="2023-11-30T02:26:30Z" finished-at="2023-11-30T02:26:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8904" started-at="2023-11-29T16:31:32Z" finished-at="2023-11-29T16:31:41Z">
+    <test name="Test" duration-ms="5960" started-at="2023-11-30T02:26:30Z" finished-at="2023-11-30T02:26:36Z">
       <class name="com.maven.jenkin.TestClass">
-        <test-method status="PASS" signature="precondition1()[pri:0, instance:com.maven.jenkin.TestClass@482f8f11]" name="precondition1" is-config="true" duration-ms="8366" started-at="2023-11-29T16:31:32Z" finished-at="2023-11-29T16:31:41Z">
+        <test-method status="PASS" signature="precondition1()[pri:0, instance:com.maven.jenkin.TestClass@482f8f11]" name="precondition1" is-config="true" duration-ms="5388" started-at="2023-11-30T02:26:30Z" finished-at="2023-11-30T02:26:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- precondition1 -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.maven.jenkin.TestClass@482f8f11]" name="test" duration-ms="238" started-at="2023-11-29T16:31:41Z" finished-at="2023-11-29T16:31:41Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.maven.jenkin.TestClass@482f8f11]" name="test" duration-ms="375" started-at="2023-11-30T02:26:35Z" finished-at="2023-11-30T02:26:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.maven.jenkin.TestClass@482f8f11]" name="closebrowser" is-config="true" duration-ms="270" started-at="2023-11-29T16:31:41Z" finished-at="2023-11-29T16:31:41Z">
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.maven.jenkin.TestClass@482f8f11]" name="closebrowser" is-config="true" duration-ms="163" started-at="2023-11-30T02:26:36Z" finished-at="2023-11-30T02:26:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
